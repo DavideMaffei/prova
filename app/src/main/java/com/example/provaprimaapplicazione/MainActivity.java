@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity
 {
     public static final String LogTag="5Bia_First_app";
     private int cont=0;
+    private int sas=1;
     TextView txt_count;
 
     @Override
